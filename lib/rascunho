@@ -1,0 +1,19 @@
+//FUNCTION THAT SAVE THE TASK
+  // void saveTask(){
+  //   DateTime date = DateTime.now();
+  //   String dateFormat = DateFormat('dd').format(date);
+  //
+  //   String typedText = _taskController.text;
+  //
+  //   Map<String, dynamic> task = Map();
+  //   task['title'] = typedText;
+  //   task['creationDate'] = dateFormat;
+  //   task['status'] = true;
+  //
+  //   setState((){
+  //     taskList.add(task);
+  //   });
+  //
+  //   saveFile();
+  //   _taskController.text = '';
+  // }
